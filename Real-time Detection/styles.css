@@ -1,0 +1,47 @@
+.img-container {
+    position: relative;
+}
+
+img {
+ height:400px;    
+}
+.boxes-container {
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+
+.box-container {
+    position: absolute;
+}
+
+.box {
+    border: 4px solid;
+}
+
+.label {
+    background-color: red;
+    color: white;
+    height: 22px;
+    line-height: 22px;
+    position: absolute;
+    top: -16px;
+    white-space: nowrap;
+    padding: 0 5px;
+    font-size: 18px;
+    pointer-events: none;
+    display: block;
+}
+
+
+.msg {
+    visibility: hidden;
+    font-size: 14px;
+}
+
+.msg.show {
+    visibility: visible;
+}
