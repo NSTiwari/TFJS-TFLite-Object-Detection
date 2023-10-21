@@ -23,5 +23,5 @@ The object detection model was trained on a custom dataset of different categori
 Try a [LIVE demo](https://3dvlnp.csb.app/) on CodeSandbox.
 
 ## References:
-[TF Lite Model Maker tutorial](https://www.tensorflow.org/lite/models/modify/model_maker): To train a custom object detection TF Lite model.
-[TFJS-TFLite Task API](https://js.tensorflow.org/api_tflite/0.0.1-alpha.4/): To load the TF Lite model directly on the browser and do inferencing.
+- [TF Lite Model Maker tutorial](https://www.tensorflow.org/lite/models/modify/model_maker): To train a custom object detection TF Lite model.
+- [TFJS-TFLite Task API](https://js.tensorflow.org/api_tflite/0.0.1-alpha.4/): To load the TF Lite model directly on the browser and do inferencing.
