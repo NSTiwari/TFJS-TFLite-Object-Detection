@@ -5,7 +5,7 @@ This repository is an implementation of object detection to detect waste in stat
 The object detection model was trained on a custom dataset of different categories of waste – **open litter**, **plastic waste**, **biodegradable waste**, **medical waste**, and **overflowing dustbin**.
 
 ## Static Detection:
-
+![GitHub Logo](static-detection.gif)
 
 ## Real-time Detection:
 ![GitHub Logo](real-time-waste-detection.gif)
