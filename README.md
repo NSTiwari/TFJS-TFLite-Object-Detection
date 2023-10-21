@@ -1,5 +1,5 @@
 # Real-time Waste Detection on the browser using TFLite model
-This repository is an implementation of object detection to detect waste in static and real-time directly on the browser using the TFJS-TFLite Web API.
+As an initiative to solve for environment, this project is an implementation of detecting various categories of waste in real-time by deploying a TF Lite model directly on the browser using the TFJS-TFLite API.
 
 ## Implementation details:
 The object detection model was trained on a custom dataset of different categories of waste – **open litter**, **plastic waste**, **biodegradable waste**, **medical waste**, and **overflowing dustbin**.
