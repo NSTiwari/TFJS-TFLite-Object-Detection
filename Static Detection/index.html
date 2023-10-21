@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Waste Detection on the browser using TFLite</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h2 style="text-align: center;">Waste Detection on the browser using TFLite</h2>
+    <div class="container" style="text-align: center;">
+    	<div class="img-container" style="text-align: center;">
+    		<img id="input-image" crossorigin="anonymous" />
+    		<div class="boxes-container"></div>
+    	</div>
+    	 <div class="button-container">
+    	 	<input type="file" id="image-input" accept="image/*"/>
+    	 	<div class="btn">Detect</div>
+    	 </div>
+    	 <div class="text"></div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-core"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-backend-cpu"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs-tflite@0.0.1-alpha.8/dist/tf-tflite.min.js"></script>
+    <script src="static-detection.js"></script>
+</body>
+
+</html>
