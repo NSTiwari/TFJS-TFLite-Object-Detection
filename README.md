@@ -4,6 +4,13 @@ This repository is an implementation of object detection to detect waste in stat
 ## Implementation details:
 The object detection model was trained on a custom dataset of different categories of waste – **open litter**, **plastic waste**, **biodegradable waste**, **medical waste**, and **overflowing dustbin**.
 
+## Steps to run:
+
+1. Clone the repository on your local machine.
+2. For static detection, navigate to the directory ```cd Static Detection```; for real-time detection, navigate to the directory ```cd Real-time Detection```.
+3. Open your terminal/command prompt and enter the command ```py -m http.server``` (if you have Python installed) to create a local server.
+4. Open your web browser, and go to ```localhost:8000```.
+
 ## Static Detection:
 ![GitHub Logo](static-detection.gif)
 
