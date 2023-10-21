@@ -7,8 +7,11 @@ The object detection model was trained on a custom dataset of different categori
 ## Steps to run:
 
 1. Clone the repository on your local machine.
+  
 2. For static detection, navigate to the directory ```cd Static Detection```; for real-time detection, navigate to the directory ```cd Real-time Detection```.
+ 
 3. Open your terminal/command prompt and enter the command ```py -m http.server``` (if you have Python installed) to create a local server.
+   
 4. Open your web browser, and go to ```localhost:8000```.
 
 ## Static Detection:
