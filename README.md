@@ -1,4 +1,4 @@
-# Real-time Waste Detection on the browser using TFLite model
+# Waste Detection on the browser using TFLite model
 As an initiative to solve for environment, this project is an implementation of detecting various categories of waste in real-time by deploying a TF Lite model directly on the browser using the TFJS-TFLite API.
 
 ## Implementation details:
