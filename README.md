@@ -1,6 +1,8 @@
 # Waste Detection on the browser using TFLite model
 As an initiative to solve for environment, this project is an implementation of detecting various categories of waste in real-time by deploying a TF Lite model directly on the browser using the TFJS-TFLite API.
 
+## Note: TF Lite Model Maker is now obsolete and is replaced by MediaPipe Model Maker.
+
 ## Implementation details:
 The object detection model was trained on a custom dataset of different categories of waste – **open litter**, **plastic waste**, **biodegradable waste**, **medical waste**, and **overflowing dustbin**.
 
