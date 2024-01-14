@@ -23,7 +23,8 @@ The object detection model was trained on a custom dataset of different categori
 ![GitHub Logo](real-time-waste-detection.gif)
 
 - Try a [LIVE demo](https://3dvlnp.csb.app/) on CodeSandbox.
-- Read the [Medium](https://tiwarinitin1999.medium.com/ml-story-machine-learning-on-the-browser-tf-lite-meets-tf-js-fafc391fed09) blog for technical details. 
+- Read the [Medium](https://tiwarinitin1999.medium.com/ml-story-machine-learning-on-the-browser-tf-lite-meets-tf-js-fafc391fed09) blog for technical details.
+- Watch the full demonstration on [YouTube](https://www.youtube.com/watch?v=ugJJhzTnyZ0).
 
 ## References:
 - [TF Lite Model Maker tutorial](https://www.tensorflow.org/lite/models/modify/model_maker): To train a custom object detection TF Lite model.
