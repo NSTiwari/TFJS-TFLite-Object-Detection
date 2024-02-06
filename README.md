@@ -25,7 +25,7 @@ The object detection model was trained on a custom dataset of different categori
 - Try a [LIVE demo](https://3dvlnp.csb.app/) on CodeSandbox.
 - Read the [Medium](https://tiwarinitin1999.medium.com/ml-story-machine-learning-on-the-browser-tf-lite-meets-tf-js-fafc391fed09) blog for technical details.
 - Watch the full demonstration on [YouTube](https://www.youtube.com/watch?v=ugJJhzTnyZ0).
-- The project is featured on [Google Dev Library](https://devlibrary.withgoogle.com/authors/tiwarinitin1999).
+- The project is featured on [Google Dev Library](https://devlibrary.withgoogle.com/products/ml/repos/NSTiwari-TFJS-TFLite-Object-Detection).
 
 ## References:
 - [TF Lite Model Maker tutorial](https://www.tensorflow.org/lite/models/modify/model_maker): To train a custom object detection TF Lite model.
